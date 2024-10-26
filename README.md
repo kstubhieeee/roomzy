@@ -2,11 +2,40 @@
 
 ## Made By
 
-- ![Hasan](https://github.com/insanelyai.png?size=50) [Hasan](https://github.com/insanelyai)
-- ![Hemant](https://github.com/hemant-i7.png?size=50) [Hemant](https://github.com/hemant-i7)
-- ![Kaustubh](https://github.com/kstubhieeee.png?size=50) [Kaustubh](https://github.com/kstubhieeee)
-- ![Shubham](https://github.com/Shubham7204.png?size=50) [Shubham](https://github.com/Shubham7204)
-- ![Morvi](https://github.com/Morviee.png?size=50) [Morvi](https://github.com/Morviee)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/insanelyai">
+        <img src="https://github.com/insanelyai.png?size=50" alt="Hasan"/><br>
+        <sub><b>Hasan</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hemant-i7">
+        <img src="https://github.com/hemant-i7.png?size=50" alt="Hemant"/><br>
+        <sub><b>Hemant</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kstubhieeee">
+        <img src="https://github.com/kstubhieeee.png?size=50" alt="Kaustubh"/><br>
+        <sub><b>Kaustubh</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Shubham7204">
+        <img src="https://github.com/Shubham7204.png?size=50" alt="Shubham"/><br>
+        <sub><b>Shubham</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Morviee">
+        <img src="https://github.com/Morviee.png?size=50" alt="Morvi"/><br>
+        <sub><b>Morvi</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ## Overview
