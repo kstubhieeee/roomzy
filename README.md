@@ -64,7 +64,7 @@ The challenge of finding affordable accommodations and trustworthy roommates is 
 
 <p align="center">
   <a align="center" href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=css,express,git,html,js,mongodb,nextjs,nodejs,postman,tailwind" />
+    <img align="center" src="https://skillicons.dev/icons?i=ts,npm,css,express,git,html,js,mongodb,nextjs,nodejs,postman,tailwind" />
   </a>
 </p>
 
