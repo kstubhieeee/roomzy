@@ -62,9 +62,11 @@ The challenge of finding affordable accommodations and trustworthy roommates is 
 
 ## Tech Stack
 
-- **Frontend:** Next.js
-- **UI:** ShadCN UI
-- **Database:** MongoDB
+<p align="center">
+  <a align="center" href="https://skillicons.dev">
+    <img align="center" src="https://skillicons.dev/icons?i=css,express,git,html,js,mongodb,nextjs,nodejs,postman,tailwind" />
+  </a>
+</p>
 
 ## Impact
 
