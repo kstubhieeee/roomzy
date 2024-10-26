@@ -6,36 +6,37 @@
   <tr>
     <td align="center">
       <a href="https://github.com/insanelyai">
-        <img src="https://github.com/insanelyai.png?size=50" alt="Hasan"/><br>
+        <img src="https://github.com/insanelyai.png" alt="Hasan" style="width:50px; height:50px; border-radius:50%;"/><br>
         <sub><b>Hasan</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/hemant-i7">
-        <img src="https://github.com/hemant-i7.png?size=50" alt="Hemant"/><br>
+        <img src="https://github.com/hemant-i7.png?size=50" alt="Hemant" style="width:50px; height:50px; border-radius:50%;"/><br>
         <sub><b>Hemant</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/kstubhieeee">
-        <img src="https://github.com/kstubhieeee.png?size=50" alt="Kaustubh"/><br>
+        <img src="https://github.com/kstubhieeee.png?size=50" alt="Kaustubh" style="width:50px; height:50px; border-radius:50%;"/><br>
         <sub><b>Kaustubh</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Shubham7204">
-        <img src="https://github.com/Shubham7204.png?size=50" alt="Shubham"/><br>
+        <img src="https://github.com/Shubham7204.png?size=50" alt="Shubham" style="width:50px; height:50px; border-radius:50%;"/><br>
         <sub><b>Shubham</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Morviee">
-        <img src="https://github.com/Morviee.png?size=50" alt="Morvi"/><br>
+        <img src="https://github.com/Morviee.png" alt="Morvi" style="width:50px; height:50px; border-radius:50%;"/><br>
         <sub><b>Morvi</b></sub>
       </a>
     </td>
   </tr>
 </table>
+
 
 
 ## Overview
