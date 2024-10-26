@@ -1,5 +1,14 @@
 # Roomzy - A Roommate Finding Platform
 
+## Made By
+
+- ![Hasan](https://github.com/insanelyai.png?size=50) [Hasan](https://github.com/insanelyai)
+- ![Hemant](https://github.com/hemant-i7.png?size=50) [Hemant](https://github.com/hemant-i7)
+- ![Kaustubh](https://github.com/kstubhieeee.png?size=50) [Kaustubh](https://github.com/kstubhieeee)
+- ![Shubham](https://github.com/Shubham7204.png?size=50) [Shubham](https://github.com/Shubham7204)
+- ![Morvi](https://github.com/Morviee.png?size=50) [Morvi](https://github.com/Morviee)
+
+
 ## Overview
 
 **Roomzy** is a platform designed to simplify the process of finding compatible roommates, specifically for students and working professionals in Mumbai. By leveraging the power of **Next.js**, **MongoDB**, and **ShadCN UI**, Roomzy connects users with potential roommates and shared living spaces, fostering community-driven solutions that promote affordability, trust, and sustainability.
